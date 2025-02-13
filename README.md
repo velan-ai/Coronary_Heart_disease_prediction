@@ -59,7 +59,3 @@ python train.py --model logistic_regression --epochs 50 --batch_size 32 --lr 0.0
 Feel free to submit issues or pull requests. Contributions are always welcome!
 
 
-## 📫 Contact
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
-- **Email:** [Your Email]
