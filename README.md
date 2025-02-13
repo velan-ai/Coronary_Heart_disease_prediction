@@ -1,7 +1,5 @@
 # 🏥 Heart Disease Prediction using AI/ML Techniques
 
-![Heart Disease Prediction](https://your-image-url.com)
-
 ## 🚀 Overview
 This project focuses on predicting heart disease using AI/ML techniques. It involves data preprocessing, exploratory data analysis, feature engineering, and model implementation using **Logistic Regression, SVM, and Deep Learning models with TensorFlow/Keras**. The objective is to build a robust predictive model that can assist in early diagnosis and risk assessment for heart disease.
 
