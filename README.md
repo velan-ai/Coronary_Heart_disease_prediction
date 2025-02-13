@@ -7,7 +7,7 @@ This project focuses on predicting heart disease using AI/ML techniques. It invo
 - ✅ **Data Consolidation & Preprocessing** – Cleaning, handling missing values, and feature engineering
 - ✅ **Exploratory Data Analysis (EDA)** – Visualizations and statistical insights
 - ✅ **Machine Learning Models** – Logistic Regression, SVM, and deep learning models
-- ✅ **Performance Evaluation** – Accuracy, Precision, Recall, Confusion Matrix
+- ✅ **Performance Evaluation** – F1-Score, Recall, Confusion Matrix
 - ✅ **Real-World Application** – AI-driven approach for healthcare diagnostics
 
 ## 📂 Project Structure
