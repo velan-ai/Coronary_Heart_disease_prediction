@@ -44,11 +44,11 @@ python train.py --model logistic_regression --epochs 50 --batch_size 32 --lr 0.0
 - **Deep Learning Model (TensorFlow/Keras)** – Neural network for enhanced accuracy
 
 ## 🎯 Results & Performance
-| Model                 | Accuracy | Precision | Recall | F1-score |
-|-----------------------|----------|-----------|--------|----------|
-| Logistic Regression  | XX%      | XX%       | XX%    | XX%      |
-| SVM                 | XX%      | XX%       | XX%    | XX%      |
-| Deep Learning Model | XX%      | XX%       | XX%    | XX%      |
+| Model                 | Recall | F1-score |
+|-----------------------|--------|----------|
+| Logistic Regression   | 63%    | 53%      |
+| SVM                   | 60%    | 46%      |
+| Deep Learning Model   | 54%    | 40%      |
 
 ## 📌 Future Improvements
 - 🔹 Hyperparameter tuning for better optimization
