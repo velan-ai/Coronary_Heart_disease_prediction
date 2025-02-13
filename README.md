@@ -22,17 +22,6 @@ This project focuses on predicting heart disease using AI/ML techniques. It invo
 └── 📄 README.md           # Project documentation
 ```
 
-## 🛠️ Installation
-Clone this repository and install the dependencies:
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/heart-disease-prediction.git
-cd heart-disease-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ## 📊 Dataset
 - **Source:** Processed Cleveland Heart Disease Dataset
 - **Preprocessing Steps:**
