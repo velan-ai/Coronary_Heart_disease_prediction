@@ -61,7 +61,7 @@ Feel free to submit issues or pull requests. Contributions are always welcome!
 ## Conclusion 
 - In this project, we implemented Multiclass Logistic Regression, Neural Network Classifier, and Support Vector Machine methods to predict coronary heart disease. Though these models showed great promise in handling the classification task, they could not perform to an optimum predictive level due to limitations of the dataset.
 - The dataset used for this project was insufficient in several ways:
-      - **Sample size** : Limited samples in the dataset made models generalize less efficiently to the new coming data.
-      - **Diversity in features** : Despite there being a fair number of different features included in the dataset, they were less representative of further, detailed features of health status that
+- **Sample size** : Limited samples in the dataset made models generalize less efficiently to the new coming data.
+- **Diversity in features** : Despite there being a fair number of different features included in the dataset, they were less representative of further, detailed features of health status that
  may have improved how well those models learned from coronary heart disease risk factors.
 
